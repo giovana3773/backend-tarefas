@@ -15,3 +15,13 @@ const lojaCosmético = {
     material: "Cosméticos"
    
 }
+const papelaria= {
+    caneta:"vermelha",
+    papel: "colorido",
+     lapis:"12 cores",
+     caderno:"48 páginas",
+     mochila: "preto",
+};
+
+console.log("o material escolhido da papelaria, é uma caixa de lápis de", papelaria.lapis);
+
